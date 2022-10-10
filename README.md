@@ -1,4 +1,6 @@
 ## Face-Mask-Detection
+![download (1)](https://user-images.githubusercontent.com/96677478/194927344-0b092848-1b58-4efb-a315-85885e0e7200.jpeg)
+
 # Introduction
 As we all know that Covid-19 has been prevailing all over the world for previous 2-3 years.It can be stopped or can be made slow by using the face masks.Many people don't seem to follow this guidlines so to make the work of police/government for verifying the people with/without mask this model can be utilized.
 
@@ -7,7 +9,11 @@ As we all know that Covid-19 has been prevailing all over the world for previous
 * Open-CV
 * Data Augmentation
 * Matplotlib
-![download (1)](https://user-images.githubusercontent.com/96677478/194927344-0b092848-1b58-4efb-a315-85885e0e7200.jpeg)
+
+![LIVE_screenshot_10 10 20221](https://user-images.githubusercontent.com/96677478/194928661-45cd2b54-4eea-45ca-89ba-8a915c5c7e6e.png)
+![LIVE_screenshot_10 10 20212](https://user-images.githubusercontent.com/96677478/194928768-c0770ed2-fd2c-468a-a6c7-1a244a1ced51.png)
+
+
 
 # 
 # Dataset

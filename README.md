@@ -10,8 +10,9 @@ As we all know that Covid-19 has been prevailing all over the world for previous
 * Data Augmentation
 * Matplotlib
 
-![LIVE_screenshot_10 10 20221](https://user-images.githubusercontent.com/96677478/194928661-45cd2b54-4eea-45ca-89ba-8a915c5c7e6e.png)
-![LIVE_screenshot_10 10 20212](https://user-images.githubusercontent.com/96677478/194928768-c0770ed2-fd2c-468a-a6c7-1a244a1ced51.png)
+![Screenshot from 2022-10-10 23-49-44](https://user-images.githubusercontent.com/96677478/194929566-0856010c-3c0d-4bd5-9cc7-5221064fbe29.png)
+![Screenshot from 2022-10-10 23-49-53](https://user-images.githubusercontent.com/96677478/194929572-884aba53-1604-4da6-a555-340dbf3a7150.png)
+
 
 
 
